@@ -260,10 +260,10 @@ section {
 .about > p {
     max-width: 900px;      /* Limit the width */
     margin: 0 auto 2rem;   /* Center horizontally and add bottom margin */
-    text-align: center;    /* Center the text */
+    text-align: left;    /* Center the text */
     font-size: 1.7rem;     /* Optional: adjust font size */
     color: var(--black);   /* Optional: ensure color matches theme */
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
 }
 .about p span {
   color: var(--orange);
